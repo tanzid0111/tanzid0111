@@ -17,7 +17,5 @@ Skills:  C / C++ / Java / JavaScript / TypeScript / HTML / CSS / Tailwind CSS / 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzid0111)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanzid0111&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/tanzid0111/contributions?format=svg&private=false)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanzid0111&show_icons=true&count_private=true)  
 
